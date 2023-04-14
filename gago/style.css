@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: blue;
+  background-image: url(./pattern001.png);
 }
 
 .container {
@@ -24,9 +24,9 @@ body {
   max-height: 400px;
   justify-content: center;
   align-items: center;
-  background-color: black;
   background-size: cover;
   border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
 }
 
 .conteudo {
