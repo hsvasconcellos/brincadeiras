@@ -7,7 +7,7 @@ function esconderBotao() {
 }
 
 function adicionarImg() {
-  caixa.style.backgroundImage = "url('ananda.jpg')";
+  caixa.style.backgroundImage = "url('ricardo.jpg')";
   caixa.style.border = "1px solid #0000003d;";
 }
 
